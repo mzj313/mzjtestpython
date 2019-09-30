@@ -1,0 +1,7 @@
+新建项目
+django-admin startproject testDjango
+设置Django环境
+set path=%path%;E:\Python\Python37\Lib\site-packages;
+启动内置的web服务器
+python3 manage.py runserver 8000
+访问地址 http://127.0.0.1:8000/
