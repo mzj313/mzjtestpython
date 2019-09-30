@@ -1,0 +1,11 @@
+*.iml
+target/
+logs/
+.idea/
+.git/
+*.project
+*.classpath
+*.prefs
+*.class
+*.log
+.history/
